@@ -18,4 +18,4 @@ After adding the files, it is important to commit them. To do that, use
 To push these changes to a remote repository, that in Git Hub for instance, we use the command
 
                     git push origin master
-The *origin* keyword is a word taht stands for the location of our git repository. The keyword *master* stands for the branch we want our changes to be pushed to.
+The *origin* keyword is a word taht stands for the location of our git repository. The keyword *master* (try *main* instead of *master* if it doesn't work) stands for the branch we want our changes to be pushed to.
