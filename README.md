@@ -35,4 +35,4 @@ You can scheck that you actually switched by using the command <code>git branch<
 
 # Changes visible only in the feature-readme-instructions branch
 
-Some changes.
+Some changes. These are **only** visible in the feature-readme-instructions branch.
