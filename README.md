@@ -35,4 +35,4 @@ You can scheck that you actually switched by using the command <code>git branch<
 
 # Changes visible only in the feature-readme-instructions branch
 
-Some changes. These are **only** visible in the feature-readme-instructions branch. This is evidend by checking out on the main branch and observing that this part of the readme file goes away.
+Some changes. These are **only** visible in the feature-readme-instructions branch. This is evidend by checking out on the main branch and observing that this part of the readme file goes away. To push them to GitHub, use the <code>git push origin same_name_of_local_branh</code>. The fact that we use the same name on the local machine and on GitHub is only for practical reasons and it is a convention.
